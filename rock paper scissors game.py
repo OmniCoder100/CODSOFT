@@ -1,9 +1,4 @@
-#random module for computer random choice
-#def game rules 
-#input wali line frm comp
-#random number = str codes
-#input from user
-# fn called
+
 import random
 
 def game(computer,player):
